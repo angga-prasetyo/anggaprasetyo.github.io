@@ -23,7 +23,7 @@ open index.html
 
 ---
 
-## Screenshots ← opsional, tapi sangat worth it untuk frontend project
+## Screenshots
 
 ![Main Page: Part 1](https://github.com/user-attachments/assets/35b6cc2a-4b3b-4338-a6e0-fabb6bfef75d)
 
